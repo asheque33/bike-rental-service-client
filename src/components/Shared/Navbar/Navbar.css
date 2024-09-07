@@ -1,0 +1,12 @@
+nav {
+  background-color: #dde6ed;
+  padding: 24px 32px;
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ul li {
+  margin-right: 16px;
+}
