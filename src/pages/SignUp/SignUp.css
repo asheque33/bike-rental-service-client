@@ -1,0 +1,16 @@
+.signup-section {
+  background-color: #dde6ed;
+  box-shadow: 10px 20px 10px gainsboro;
+  padding: 0 48px;
+  max-width: 600px !important;
+  width: 90%;
+  height: 80vh;
+  display: flex;
+  margin: 48px auto 24px;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+.signup-form {
+  width: 100%;
+}
