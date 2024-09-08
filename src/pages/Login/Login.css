@@ -1,0 +1,16 @@
+.login-section {
+  background-color: #dde6ed;
+  box-shadow: 10px 20px 10px gainsboro;
+  padding: 0 48px;
+  max-width: 600px !important;
+  width: 90%;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 96px auto 24px auto;
+  overflow: hidden;
+}
+#login-form {
+  width: 100%;
+}
